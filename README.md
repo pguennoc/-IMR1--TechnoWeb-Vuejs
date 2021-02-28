@@ -1,8 +1,12 @@
-# tpvuejs_guennoc_imr1_2021
+# [IMR1] Projet 2021 de Vue.js du module TechnologiesWeb.
 
 > TP Vue.js IMR1 2021, Pierre-Yves GUENNOC
 
-## Build Setup
+## Rendu
+
+![](d-d.png)
+
+## Configuration de la construction
 
 ``` bash
 # install dependencies
